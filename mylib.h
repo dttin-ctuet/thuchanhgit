@@ -1,0 +1,2 @@
+void xemthang();
+void namnhuan();
